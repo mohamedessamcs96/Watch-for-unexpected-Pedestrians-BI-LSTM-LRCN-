@@ -1,5 +1,8 @@
 # Pedestrians intention detection using Yolo11 and Pedestrians profile
 
+![Pedestrian Detection Architecture](images/architecture.png)
+
+
 ### 1. **YOLO Object Detection (Pedestrian Detection)**
    - **Automatic Detection**: YOLO detects pedestrians in your images or video feed and generates bounding boxes.
    - **Initial Prediction (Intent to Cross (HIGH,LOW) , Crossing, Walking or Standing)**: Based on the YOLO output, you can classify whether a pedestrian is crossing or standing using additional features like age, gender, and clothing.
