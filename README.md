@@ -1,6 +1,7 @@
 # Pedestrians intention detection using Yolo11 and Pedestrians profile
 
-![Pedestrian Detection Architecture](Model Architecture .drawio.png)
+![Pedestrian Detection Architecture](Model%20Architecture%20.drawio.png)
+
 
 
 ### 1. **YOLO Object Detection (Pedestrian Detection)**
