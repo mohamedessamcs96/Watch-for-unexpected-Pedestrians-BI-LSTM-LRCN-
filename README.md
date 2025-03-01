@@ -2,7 +2,7 @@
 
 ### 1. **YOLO Object Detection (Pedestrian Detection)**
    - **Automatic Detection**: YOLO detects pedestrians in your images or video feed and generates bounding boxes.
-   - **Initial Prediction (Intend to Cross , Crossed or Standing)**: Based on the YOLO output, you can classify whether a pedestrian is crossing or standing using additional features like age, gender, and clothing.
+   - **Initial Prediction (Intent to Cross (HIGH,LOW) , Crossing, Walking or Standing)**: Based on the YOLO output, you can classify whether a pedestrian is crossing or standing using additional features like age, gender, and clothing.
 
 ### 2. **Extract Additional Features (Age, Gender, Clothes)**
    - Use pre-trained models to extract the age, gender, and clothes information for each detected pedestrian (as described in previous responses).
